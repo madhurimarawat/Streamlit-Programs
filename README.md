@@ -113,6 +113,15 @@ machine learning algorithms such as classification, prediction, etc.</li>
 </ul>
 
 ---
+### Additional Resources 🧮📚📓🌐
+
+1. To see more of my machine learning models, visit my repository: https://github.com/madhurimarawat/Machine-Learning-Using-Python
+
+2. I deployed my ML models that I made using streamlit:<br>
+Visit Website from : <a href="https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/">ML Algorithms on Inbuilt and Kaggle Datasets</a><br><br>
+To See codes: https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits
+
+---
 ## Thanks for Visiting 😄
 
 Drop a 🌟 if you find this repository useful.<br><br>
