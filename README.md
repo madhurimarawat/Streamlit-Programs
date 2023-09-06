@@ -72,10 +72,10 @@ You should be able to view the homepage of your app.
 # Naive Bayes Classifier Diabetes Prediction
 
 --> First ML model is constructed using Naive Bayes Classifier for the dataset.<br><br>
---> Then this model is saved using pickle in disk with the extention .pkl(Pickle File).<br><br>
---> The Homepage is designed for flask app.<br><br>
---> After this the flask app code is written.<br><br>
---> Finally we can run this app in the flask Server.<br>
+--> Then this model can be used directly.<br><br>
+--> The Homepage is designed for steamlit app.<br><br>
+--> After this the user input will be taken.<br><br>
+--> Finally we can run this app in the streamlit Server and get the desired output.<br>
 
 ## Dataset Used
 
@@ -93,6 +93,15 @@ You should be able to view the homepage of your app.
 --> It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other.<br><br>
 --> The fundamental Naive Bayes assumption is that each feature makes an independent and equal contribution to the outcome.
 
+# ML Model Inbuilt Datasets
+
+--> In this I applied all supervised learning algorithm on inbuilt datasets in scikit-learn.<br><br>
+--> Then this model can be used directly.<br><br>
+--> The Homepage is designed for steamlit app.<br><br>
+--> After this the user input will be taken.<br><br>
+--> Finally we can run this app in the streamlit Server and get the desired output.<br><br>
+--> Also I made two code files for this. One files contains the implementation of this code using if else and it will run on all versions of python.<br><br>
+--> The second file contains code implementation using match case and will only run in python versions 3.10 and later.
 
 ---
 ## Libraries Used
